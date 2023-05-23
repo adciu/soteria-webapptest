@@ -59,7 +59,7 @@ Flask-Assets = "~2.0"
 Flask-WTF = "~1.0"
 ldap3 = "~2.9"
 libsass = "~0.21"
-requests = "~2.28"
+requests = "~2.31"
 typing-extensions = "~4.3"
 
 
